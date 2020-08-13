@@ -1,4 +1,4 @@
-# Cloud-Awesome.github.io
+# Cloud Awesome Wiki
 
 Watch this space ;)
 
