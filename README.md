@@ -1,4 +1,4 @@
-# Cloud Awesome Wiki
+# Home
 
 Watch this space ;)
 
